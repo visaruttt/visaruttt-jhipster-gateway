@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.allianz.jhipstergateway"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "gateway",
+    "baseName": "jhipsterGateway",
+    "packageName": "com.allianz.jhipstergateway",
+    "packageFolder": "com/allianz/jhipstergateway",
+    "serverPort": "8000",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjA4MmQxOWNjZGFiZmNhZmE4N2MzNmQ5Y2VmMzQzMmQxNzdiN2FkMjhjYTYyNDU4ZDk2OTRhOTE1NDFmZWI5MGQzOTg5MzQ5NjFhY2E1NWExOThmYmY3YmU1M2YxNWZkYmE4MzI4OTZiYzVhMGQzNDllNzhkNjNiYzJhMTg1OTU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1596641887521,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
